@@ -8,6 +8,7 @@ import (
 	"github.com/hashicorp/consul/watch"
 )
 
+// 使用consul源码中的watch包监听服务变化
 func main() {
 	var (
 		err    error

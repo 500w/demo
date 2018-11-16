@@ -1,3 +1,2 @@
-# demo
+# Golang demo
 
-## consul watch in go
